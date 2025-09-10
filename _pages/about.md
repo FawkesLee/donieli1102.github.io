@@ -21,8 +21,8 @@ Hello! I'm Donghui Li. I am currently a first-year doctoral student at Xi'an Jia
 
 
 <!--# 🔥 News -->
-<!-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
+<!--*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 
 # 📝 Publications 
 
@@ -48,7 +48,7 @@ Hello! I'm Donghui Li. I am currently a first-year doctoral student at Xi'an Jia
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D candidate, Xi'an-Jiaotong Liverpool University
-- *2021.09 - 2024.03", M.Sc., Nanjing University of Science and Technology
+- *2021.09 - 2024.03*, M.Sc., Nanjing University of Science and Technology
 - *2017.09 - 2021.06*, B.Eng., Shandong University of Science and Technology 
 
 <!--# 💬 Invited Talks-->
