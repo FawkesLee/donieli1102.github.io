@@ -47,9 +47,9 @@ Hello! I'm Donghui Li. I am currently a first-year doctoral student at Xi'an Jia
 - *2021.11*, 3rd Academic Scholarship for M.Sc. Students 
 
 # 📖 Educations
-- *2025.09 - present*, Ph.D candidate, Xi'an-Jiaotong Liverpool University
-- *2021.09 - 2024.03*, M.Sc., Nanjing University of Science and Technology
-- *2017.09 - 2021.06*, B.Eng., Shandong University of Science and Technology 
+- *2025.09 - present*, **Ph.D candidate**, Xi'an-Jiaotong Liverpool University
+- *2021.09 - 2024.03*, **M.Sc.**, Nanjing University of Science and Technology
+- *2017.09 - 2021.06*, **B.Eng.**, Shandong University of Science and Technology 
 
 <!--# 💬 Invited Talks-->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
