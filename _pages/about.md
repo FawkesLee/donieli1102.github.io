@@ -42,9 +42,9 @@ Hello! I'm Donghui Li. I am currently a first-year doctoral student at Xi'an Jia
 
 
 # 🎖 Honours and Awards
-- *2023.10* 2nd Academic Scholarship for M.Sc. Students
-- *2022.10* 2nd Academic Scholarship for M.Sc. Students
-- *2021.11* 3rd Academic Scholarship for M.Sc. Students 
+- *2023.10*, 2nd Academic Scholarship for M.Sc. Students
+- *2022.10*, 2nd Academic Scholarship for M.Sc. Students
+- *2021.11*, 3rd Academic Scholarship for M.Sc. Students 
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D candidate, Xi'an-Jiaotong Liverpool University
